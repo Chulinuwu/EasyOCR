@@ -10,3 +10,5 @@ Design and implement a simple method to compare the recognized license plate tex
 (Optional) If we develop a real-time license plate recognition device, how should the communication system be designed, and which parts should run on the edge and which on the cloud?
 
 (Optional) Send the message “Licence plate no. XXX XXXX: PASS (or Fail)” through Line.
+
+![alt text](image.png)
