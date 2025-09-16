@@ -11,4 +11,4 @@ Design and implement a simple method to compare the recognized license plate tex
 
 (Optional) Send the message “Licence plate no. XXX XXXX: PASS (or Fail)” through Line.
 
-![alt text](image.png)
+![alt text](Preview.png)
